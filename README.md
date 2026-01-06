@@ -14,11 +14,6 @@
 
   <br><br>
 
-  <!-- Main GIF -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.3);">
-
-  <br><br>
-
   <!-- Comprehensive Skills Badges -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 20px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
