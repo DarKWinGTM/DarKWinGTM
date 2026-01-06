@@ -46,15 +46,6 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   </div>
 
-  <!-- Databases & Monitoring -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 20px;">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  </div>
 
   <br>
 
@@ -154,8 +145,6 @@ With **8+ years** of experience in technology infrastructure and software develo
 |----------|-------------|-------------|
 | **Languages** | Python, Rust, Go, JavaScript/TypeScript, Java | Expert |
 | **Frameworks** | FastAPI, Actix, Express.js, React, Spring Boot | Advanced |
-| **Databases** | PostgreSQL, MongoDB, Redis, Elasticsearch | Expert |
-| **ORM/Tools** | SQLAlchemy, Diesel, Mongoose, Prisma | Advanced |
 
 ### **Cloud & Infrastructure**
 | Category | Technologies | Proficiency |
@@ -171,7 +160,6 @@ With **8+ years** of experience in technology infrastructure and software develo
 | **CI/CD** | GitHub Actions, Jenkins, GitLab CI | Expert |
 | **Version Control** | Git, GitHub, GitLab | Expert |
 | **Artifact Management** | Nexus, Artifactory, Docker Registry | Advanced |
-| **Security** | HashiCorp Vault, AWS KMS, Keycloak | Advanced |
 
 </div>
 
@@ -223,9 +211,8 @@ With **8+ years** of experience in technology infrastructure and software develo
 |---------|--------|-------------|---------|
 | **Cloud Migration Platform** | Cloud/DevOps | AWS, Terraform, Kubernetes | Migrated 100+ applications to cloud |
 | **Rust Systems Toolkit** | Development | Rust, Python, Docker | Created learning resources for 10K+ developers |
-| **Microservices Framework** | Architecture | Go, RabbitMQ, PostgreSQL | Built scalable API serving 1M requests/day |
+| **Microservices Framework** | Architecture | Go, RabbitMQ, Relational Databases | Built scalable API serving 1M requests/day |
 | **Security Automation Suite** | Security | Python, Ansible, Vault | Automated compliance for enterprise clients |
-| **Network Monitoring System** | Infrastructure | Prometheus, Grafana, ELK | Real-time monitoring for global infrastructure |
 
 ### 📚 **Open Source & Technical Writing**
 
