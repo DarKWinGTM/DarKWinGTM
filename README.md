@@ -25,9 +25,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 
     <!-- Cloud & Infrastructure -->
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -114,7 +111,7 @@ With **8+ years** of experience in technology infrastructure and software develo
 - Security automation and compliance frameworks
 
 **💻 Full-Stack Development**
-- Backend development with Python, Rust, Go, and Node.js
+- Backend development with Python, Rust
 - Frontend development with modern JavaScript frameworks
 - API design and microservices architecture
 - Database design and optimization
@@ -144,7 +141,7 @@ With **8+ years** of experience in technology infrastructure and software develo
 ### **Programming & Development**
 | Category | Technologies | Proficiency |
 |----------|-------------|-------------|
-| **Languages** | Python, Rust, Go, JavaScript/TypeScript, Java | Expert |
+| **Languages** | Python, Rust, JavaScript | Expert |
 | **Frameworks** | FastAPI, Actix, Express.js, React, Spring Boot | Advanced |
 
 ### **Cloud & Infrastructure**
@@ -212,7 +209,7 @@ With **8+ years** of experience in technology infrastructure and software develo
 |---------|--------|-------------|---------|
 | **Cloud Migration Platform** | Cloud/DevOps | AWS, Terraform, Kubernetes | Migrated 100+ applications to cloud |
 | **Rust Systems Toolkit** | Development | Rust, Python, Docker | Created learning resources for 10K+ developers |
-| **Microservices Framework** | Architecture | Go, RabbitMQ, Relational Databases | Built scalable API serving 1M requests/day |
+| **Microservices Framework** | Architecture | Relational Databases, Relational Databases | Built scalable API serving 1M requests/day |
 | **Security Automation Suite** | Security | Python, Ansible, Vault | Automated compliance for enterprise clients |
 
 ### 📚 **Open Source & Technical Writing**
