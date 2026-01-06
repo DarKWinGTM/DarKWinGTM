@@ -70,9 +70,10 @@
 
   <br><br>
 
-  <!-- GitHub Stats with Better Configuration -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarKWinGTM&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarKWinGTM&layout=compact&theme=default"/>
+  <!-- GitHub Stats - Simplified -->
+  <img src="https://img.shields.io/github/followers/DarKWinGTM?style=for-the-badge&logo=github&logoColor=white&color=00D4FF&labelColor=0d1117" alt="Followers">
+  <img src="https://img.shields.io/github/stars/DarKWinGTM/DarKWinGTM?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B&labelColor=0d1117" alt="Stars">
+  <img src="https://img.shields.io/github/repo-count/DarKWinGTM?style=for-the-badge&logo=github&logoColor=white&color=9B59B6&labelColor=0d1117" alt="Public Repos">
 
   <br>
 
@@ -152,7 +153,6 @@ With **8+ years** of experience in technology infrastructure and software develo
 | **Cloud Providers** | AWS, Azure, Google Cloud | Expert |
 | **Containerization** | Docker, Kubernetes, Podman | Expert |
 | **IaC** | Terraform, CloudFormation, Ansible | Advanced |
-| **Monitoring** | Prometheus, Grafana, ELK Stack | Advanced |
 
 ### **DevOps & Automation**
 | Category | Technologies | Proficiency |
@@ -160,6 +160,7 @@ With **8+ years** of experience in technology infrastructure and software develo
 | **CI/CD** | GitHub Actions, Jenkins, GitLab CI | Expert |
 | **Version Control** | Git, GitHub, GitLab | Expert |
 | **Artifact Management** | Nexus, Artifactory, Docker Registry | Advanced |
+| **Security** | HashiCorp Vault, AWS KMS, Keycloak | Advanced |
 
 </div>
 
