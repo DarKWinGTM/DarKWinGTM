@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Profile Views Counter -->
-  <img src="https://corsproxy.io/?url=https://graph.facebook.com/Node.Network/picture?width=720&format=png" />
-
   <br><br>
 
   <!-- Animated Header -->
