@@ -1,12 +1,14 @@
 <div align="center">
 
+  <!-- Profile Views Counter -->
+  <img src="https://corsproxy.io/?url=https://graph.facebook.com/Node.Network/picture?width=720&format=png" />
+
+  <br><br>
+
   <!-- Animated Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=👋+Hello%2C+I'm+DarKWinGTM;🚀+Senior+Systems+Engineer+%7C+Cloud+Architect;🔥+Full-Stack+Developer+%7C+DevOps+Specialist;⚡+Building+Scalable+Infrastructure+%26+Applications" alt="Typing SVG" />
   
-  <br>
-
-  <!-- Profile Views Counter -->
-  <img src="https://corsproxy.io/?url=https://graph.facebook.com/Node.Network/picture?width=720&format=png" />
+  <br><br>
 
   <!-- Dynamic Status -->
   <img src="https://img.shields.io/badge/Status-Architecting%20Cloud%20Solutions-00D4FF?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Status" />
