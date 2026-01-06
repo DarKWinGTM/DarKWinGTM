@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=👋+Hello%2C+I'm+DarKWinGTM;🚀+Senior+Systems+Engineer+%7C+Cloud+Architect;🔥+Full-Stack+Developer+%7C+DevOps+Specialist;⚡+Building+Scalable+Infrastructure+%26+Applications" alt="Typing SVG" />
+  <img src="https://corsproxy.io/?url=https://graph.facebook.com/Node.Network/picture?width=720&format=png" />
 
   <br>
 
